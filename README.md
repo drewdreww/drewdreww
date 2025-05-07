@@ -9,8 +9,10 @@
 <hr />
 
 
-# 💫 About Me:
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+# 💫 About Me
+
+I'm a 2nd year BS Computer Science student from Cebu Institute of Technology – University. I'm currently working on web development projects and improving my skills in both frontend and backend. I'm open to collaborating on clean, functional apps and always eager to learn more—whether it's about code, design, or anything in between. Right now, I'm exploring React and Node.js. Outside of tech, I play basketball to reset and stay focused. I'm interested in just about everything, so feel free to connect!
+
 
 
 ## 🌐 Socials:
