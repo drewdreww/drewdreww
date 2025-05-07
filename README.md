@@ -1,10 +1,13 @@
 # 👋 Hi, I'm Ralph!
 
-----------------------------------------------------------
+<hr />
+
 <p align="center">
   <img src="https://github.com/user-attachments/assets/39c3758a-3376-46bd-bc67-8c1ad1d48165" alt="awax" />
 </p>
-----------------------------------------------------------
+
+<hr />
+
 
 # 💫 About Me:
 🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
