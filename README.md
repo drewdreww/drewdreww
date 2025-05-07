@@ -1,7 +1,9 @@
 # 👋 Hi, I'm Ralph!
 
 ----------------------------------------------------------
-![awax](https://github.com/user-attachments/assets/39c3758a-3376-46bd-bc67-8c1ad1d48165)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/39c3758a-3376-46bd-bc67-8c1ad1d48165" alt="awax" />
+</p>
 ----------------------------------------------------------
 
 # 💫 About Me:
